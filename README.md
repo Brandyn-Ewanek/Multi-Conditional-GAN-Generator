@@ -62,7 +62,7 @@ I shifted to **Joint Adversarial Training** (Tabula Rasa). By initializing both 
     *The app will launch at `http://127.0.0.1:7860`*
 
 ## 📄 Documentation
-* **[Read the Full Project Report (PDF)](Conditional Digit Generation Report.pdf)** - Includes mathematical proofs, detailed architecture diagrams, and ablation studies.
+* **[Read the Full Project Report (PDF)](Conditional_Digit_Generation_Report.pdf)** - Includes mathematical proofs, detailed architecture diagrams, and ablation studies.
     
 ## 🖼️ Project Demo
 Here is what the interface looks like:
