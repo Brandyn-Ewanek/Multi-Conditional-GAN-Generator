@@ -28,6 +28,7 @@ In Phase 1, I attempted to use a **Pre-Trained Expert Classifier** as the Discri
 Instead of learning, the Generator suffered immediate **Mode Collapse**. The expert critic provided gradients that were too steep (vanishing gradients), forcing the Generator to output a static "Checkered Grid" pattern to exploit a local minimum in the critic's filter stride.
 
 ![Mode Collapse Example](assets/mode_collapse.jpg)
+
 *(The "Death Grid" that resulted from using a pre-trained critic)*
 
 **The Solution:**
