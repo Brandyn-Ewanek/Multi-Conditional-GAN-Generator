@@ -59,6 +59,15 @@ I shifted to **Joint Adversarial Training** (Tabula Rasa). By initializing both 
     python app/app.py
     ```
     *The app will launch at `http://127.0.0.1:7860`*
+    
+## 🖼️ Project Demo
+Here is what the interface looks like:
+
+![Interface Screenshot](huggingface_dash.jpg)
+
+![Ouputs](3color_output.jpg)
+
+
 
 ## 👤 Author
 **Brandyn Ewanek**
