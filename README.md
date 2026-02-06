@@ -63,9 +63,9 @@ I shifted to **Joint Adversarial Training** (Tabula Rasa). By initializing both 
 ## 🖼️ Project Demo
 Here is what the interface looks like:
 
-![Interface Screenshot](huggingface_dash.jpg)
+![Interface Screenshot](assets/huggingface_dash.jpg)
 
-![Ouputs](3color_output.jpg)
+![Ouputs](assets/3color_output.jpg)
 
 
 
